@@ -1,6 +1,6 @@
 # Final Lab Bookmark Mamagment app
 
-A web application that helps users manage their bookmarks efficiently. Users can add, view, update, and delete bookmarks through an intuitive interface. The project integrates a React frontend with a PHP backend and MariaDB database for seamless functionality.
+A web application that helps users manage their bookmarks efficiently. Users can add, view, update, and delete bookmarks through an intuitive interface. The project integrates a React frontend with a PHP backend and MariaDB database for seamless functionality.It was developed with React on the frontend and PHP with MariaDB on the backend.
 
 ## Functions 
 Add Bookmarks: Save links with a name and description.
