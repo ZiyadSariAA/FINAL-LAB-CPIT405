@@ -1,0 +1,33 @@
+
+   .bt {
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .updte {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .updte.of {
+    background-color: #e0e0e0;
+    color: #999;
+    cursor: not-allowed;
+  }
+  
+  .delet {
+    background-color: #f39d09;
+    color: white;
+  }
+  
+  .delet.of {
+    background-color: #e0e0e0;
+    color: #999;
+    cursor: not-allowed;
+  }
+  

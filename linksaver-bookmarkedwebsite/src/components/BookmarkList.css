@@ -1,0 +1,53 @@
+
+
+
+.juslist {
+    margin: 20px auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+
+
+  
+
+  .lst {
+    list-style-type: none;
+  }
+  
+
+  .theitm {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #5f635e;
+    border-radius: 4px;
+    text-align: left;
+  }
+  
+
+  .itmname {
+    font-weight: bold;
+    color: #000;
+  }
+  
+
+  .itm-link {
+    color: blue;
+    text-decoration: underline;
+    word-break: break-all;}
+  
+  .itm-link:hover {
+    color: darkblue;
+  }
+  
+  .idesc {
+    color: #555;
+    margin-top: 5px;
+    font-size: 0.9rem;
+  }
+  
+  .nobmks {
+    color: gray;
+    font-size: 1rem;
+  }
+  

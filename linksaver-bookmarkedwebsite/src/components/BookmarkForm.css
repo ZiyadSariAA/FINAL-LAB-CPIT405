@@ -1,0 +1,23 @@
+
+.frum-bx {
+    margin: 20px auto;
+    text-align: center;
+    width: 300px;
+  }
+  
+ 
+  .inpt,.txtar {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .btn {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    color: white;
+    background-color: #4caf50;
+  }
+  
