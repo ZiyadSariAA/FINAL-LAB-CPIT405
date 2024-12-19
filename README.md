@@ -12,15 +12,17 @@ Delete Bookmarks: Remove bookmarks you no longer need.
 Adding a Bookmark:
 
 Enter a link, name, and description into the form.
-Click "Create Bookmark" to save it.
+Click "Create " to save it.
+
 Viewing Bookmarks:
-
 Bookmarks are displayed automatically upon loading the app.
+
+
 Updating a Bookmark:
-
 Use the "Update" button to modify a selected bookmark.
-Deleting a Bookmark:
 
+
+Deleting a Bookmark:
 Click "Delete" to remove a bookmark from the list.
 
 
